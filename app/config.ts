@@ -1,6 +1,6 @@
 export const metaData = {
-  baseUrl: "https://personal-website-milind-kumars-projects-c5ccf9b4.vercel.app/",
-  title: "Nextfolio",
+  baseUrl: "https://milindkumar.dev",
+  title: "Milind Kumar",
   name: "Milind Kumar",
   ogImage: "/opengraph-image.png",
   description:
